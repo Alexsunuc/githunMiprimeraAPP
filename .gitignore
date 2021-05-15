@@ -10,6 +10,7 @@
 
 # production
 /build
+/githunMiprimeraAPP.git
 
 # misc
 .DS_Store
