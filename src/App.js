@@ -83,7 +83,7 @@ render(){
   return(
 <div className=" app cointainer">
          <div className="jumbotron"> 
-               <p className="lead text-center">Buscador de Imagenes  </p>
+               <p className="lead text-center">Busca una imagen  </p>
               <Buscador
                datosBusqueda={this.datosBusqueda}
               />
